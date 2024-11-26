@@ -1,0 +1,14 @@
+Variable SE,Shapiro-Wilk High (p-value),Shapiro-Wilk Low (p-value),Levene (p-value),Test recomendado,Grupo High (autoeficacia alta),Grupo Low (autoeficacia baja)
+SE01_conf_aprender,5.8571125380324496e-12,0.012213178910315037,0.03671660083084608,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE02_autonomia_aprender,3.8185832273995857e-10,0.00041939259972423315,0.05954140917934127,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE14R_cuesta_ejercicios,3.3595435322553158e-09,0.02840711735188961,0.012552216841398713,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE03_resolver_ejercicios,9.309497062126582e-10,0.00041939259972423315,0.11103726718002031,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE04_estudiar_tiempo_necesario,1.0481042249377293e-11,0.48597028851509094,0.9477006091380294,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE15R_cuesta_clases,3.847858920380531e-09,0.0018938785651698709,0.46987504502515987,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE06_entender_compleja,1.4070047349434844e-09,0.054845187813043594,0.20876712248755946,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE08_buscar_ayuda_autonomia,8.96633114977341e-12,0.012213178910315037,0.023980665744835504,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE09_conf_aprobar,1.0186612837970177e-12,0.00046314741484820843,0.20384806958123144,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE10_identif_baches,3.0490360670293315e-12,0.19422990083694458,0.8790417395706026,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE16R_cuesta_comparacion,8.737234824529594e-10,0.11326050013303757,0.7478233680658573,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE11_entender_clases,1.051560227782744e-11,0.0001525924599263817,0.0768834775748648,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
+SE13_resiliencia,2.886175187732931e-10,0.5948319435119629,0.4444480608650182,No paramétrico (Mann-Whitney U),SE_t1 > 3,SE_t1 <= 3
